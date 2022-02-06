@@ -23,7 +23,7 @@
 Before clicking on deploy to heroku just click on fork and star just below
 
 <p align="center">
-  <a href="https://github.com/ivetri/tamilbot/fork">
+  <a href="https://github.com/COO-OF-SIGMAHUB/tamilbot/fork">
     <img src="https://img.shields.io/github/forks/ivetri/tamilbot?label=Fork&style=social">
     
   </a>
